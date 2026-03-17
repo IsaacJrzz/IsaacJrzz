@@ -3,7 +3,10 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=header&animation=fadeIn" width="100%" />
 
 # ¡Hola, soy Isaac Alonso!
-*(SMR Technician & DAM Student)*
+
+<a href="https://www.linkedin.com/in/isaacalonsojuarez/">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=SMR+Technician;DAM+Student;Full+Stack+Developer+Intern;SEO+%26+Web+Expert" alt="Typing SVG" />
+</a>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
