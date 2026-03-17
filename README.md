@@ -1,11 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=header&animation=fadeIn" width="100%" />
+<svg width="0" height="0">
+  <defs>
+    <clipPath id="rounded-corners" clipPathUnits="objectBoundingBox">
+      <rect rx="0.05" ry="0.05" width="1" height="1" />
+    </clipPath>
+  </defs>
+</svg>
 
-# ¡Hola, soy Isaac Alonso!
+<div style="clip-path: url(#rounded-corners);-webkit-clip-path: url(#rounded-corners);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=header&animation=fadeIn" width="100%" alt="Banner superior" />
+</div>
+
+# ¡Hola, soy Isaac Alonso! 🚀
 
 <a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sistemas+Microinform%C3%A1ticos+y+Redes;Desarrollo+de+Aplicaciones+Multiplataforma;Aprendiendo+Desarrollo+Full+Stack;Experiencia+en+Desarrollo+Web+y+SEO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sistemas+Microinform%C3%A1ticos+y+Redes;Desarrollo+de+Aplicaciones+Multiplataforma;Experiencia+en+Sistemas+y+Hardware;Experiencia+en+Desarrollo+Web+y+SEO" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -20,9 +30,9 @@
 ### 🚀 Sobre mí
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**.
 - 🛠️ Técnico en **Sistemas Microinformáticos y Redes**.
-- 💻 Enfocado en el aprendizaje de **desarrollo web y aplicaciones**, con experiencia en la implementación de estrategias SEO y mantenimiento de sistemas.
+- 💻 Enfocado en el **desarrollo web y aplicaciones**, con experiencia sólida en **mantenimiento y reparación de dispositivos**.
 - 🌱 Actualmente ampliando conocimientos en **React** y practicando la gestión de entornos servidor (Linux/Windows).
-- ⚡ Interesado en comprender la integración entre el software y el hardware para el desarrollo de soluciones funcionales.
+- ⚡ Me apasiona la integración entre el software y el hardware para crear soluciones eficientes y funcionales.
 
 ---
 
@@ -34,7 +44,7 @@
 ### 🗄️ Gestión de Datos
 ![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
-### 🖥️ Sistemas y Redes
+### 🖥️ Sistemas, Redes y Hardware
 ![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)
 
 ### 🛠️ Entornos de Desarrollo
@@ -56,17 +66,18 @@
 
 ### 🌐 Experiencia en Desarrollo Web y SEO
 **Picasso Business Center** | *Enero 2026 – Febreo 2026*
-- 📈 Aplicación de técnicas de **posicionamiento SEO** y optimización del rendimiento web.
+- 📈 Optimización de rendimiento web y aplicación de técnicas de posicionamiento SEO.
 - 🎨 Desarrollo y mantenimiento de interfaces visuales.
 
-### 💻 Experiencia en Desarrollo Web (Prácticas)
+### 🔧 Experiencia en Sistemas y Soporte (Prácticas)
 **IMOP Insights** | *Marzo 2023 – Junio 2023*
 - 🛠️ **Mantenimiento y reparación de dispositivos** y equipos microinformáticos.
 - 🖌️ Maquetación de sitios web y aplicación de estilos CSS.
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=footer" width="100%" />
+<div style="clip-path: url(#rounded-corners);-webkit-clip-path: url(#rounded-corners);">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=footer" width="100%" alt="Banner inferior" />
+</div>
 
 </div>
