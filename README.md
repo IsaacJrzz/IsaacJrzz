@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola, soy Isaac! 🚀
+# ¡Hola, soy Isaac Alonso!
 *(SMR Technician & DAM Student)*
 
 ---
