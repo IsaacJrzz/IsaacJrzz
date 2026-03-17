@@ -1,7 +1,6 @@
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=header&animation=fadeIn" width="100%" />
-
 # ¡Hola, soy Isaac Alonso! 🚀
 *(SMR Technician & DAM Student)*
 
@@ -58,8 +57,6 @@
 ### 💻 Desarrollador Web (FCT)
 **IMOP Insights** | *Marzo 2023 – Junio 2023*
 - 🖌️ Maquetación con **CSS** y diseño responsive.
-
----
 
 <div align="center">
 
