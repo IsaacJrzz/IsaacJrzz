@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Isaac%20Alonso&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=header&animation=fadeIn" width="100%" />
 
 # ¡Hola, soy Isaac Alonso! 🚀
 *(SMR Technician & DAM Student)*
