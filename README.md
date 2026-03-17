@@ -4,13 +4,13 @@
 
 # ¡Hola, soy Isaac Alonso!
 
-<a href="https://www.linkedin.com/in/isaacalonsojuarez/">
+<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sistemas+Microinform%C3%A1ticos+y+Redes;Desarrollo+de+Aplicaciones+Multiplataforma;Aprendiendo+Desarrollo+Full+Stack;Experiencia+en+Desarrollo+Web+y+SEO" alt="Typing SVG" />
 </a>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:isaacalonsojrz@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:isaacalonsojrz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -55,7 +55,7 @@
 - 💻 Participación en el desarrollo de soluciones tecnológicas en proyectos de consultoría.
 
 ### 🌐 Experiencia en Desarrollo Web y SEO
-**Picasso Business Center** | *Enero 2026 – Febrero 2026*
+**Picasso Business Center** | *Enero 2026 – Febreo 2026*
 - 📈 Aplicación de técnicas de **posicionamiento SEO** y optimización del rendimiento web.
 - 🎨 Desarrollo y mantenimiento de interfaces visuales.
 
