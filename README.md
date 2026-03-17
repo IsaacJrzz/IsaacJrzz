@@ -1,18 +1,12 @@
 <div align="center">
 
-# ¡Hola, soy Isaac Alonso!
-*(SMR Technician & DAM Student)*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Bienvenido%20a%20mi%20Perfil&fontSize=40&animation=fadeIn" width="100%" />
-
-<a href="https://www.linkedin.com/in/isaacalonsojuarez/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Estudiante+de+DAM;T%C3%A9cnico+en+SMR;Full+Stack+Developer+en+proceso;Especialista+en+Web+y+SEO" alt="Typing SVG" />
-</a>
-
 <p align="center">
-<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:isaacalonsojrz@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:isaacalonsojrz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
+
+# ¡Hola, soy Isaac Alonso! 🚀
+*(SMR Technician & DAM Student)*
 
 ---
 
@@ -62,9 +56,3 @@
 ### 💻 Desarrollador Web (FCT)
 **IMOP Insights** | *Marzo 2023 – Junio 2023*
 - 🖌️ Maquetación con **CSS** y diseño responsive.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isaacalonsojuarez&theme=react-dark&area=true&hide_border=true"
