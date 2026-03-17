@@ -34,9 +34,9 @@
 
 ## 📊 Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJrzz&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO_AQUI&theme=radical" alt="Resumen de actividad" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IsaacJrzz&theme=radical" alt="Resumen de actividad" />
 </p>
