@@ -1,12 +1,14 @@
 <div align="center">
 
-<p align="center">
-<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:isaacalonsojrz@gmail.com" target="blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=200&section=header&text=Isaac%20Alonso&fontSize=70&animation=fadeIn&fontColor=ffffff" width="100%" />
 
 # ¡Hola, soy Isaac Alonso! 🚀
 *(SMR Technician & DAM Student)*
+
+<p align="center">
+<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:isaacalonsojrz@gmail.com" target="blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
