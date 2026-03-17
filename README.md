@@ -58,3 +58,7 @@
 ### 💻 Desarrollador Web (FCT)
 **IMOP Insights** | *Marzo 2023 – Junio 2023*
 - 🖌️ Maquetación con **CSS** y diseño responsive.
+
+---
+
+<div align="
