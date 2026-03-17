@@ -32,6 +32,31 @@
 
 ---
 
+## 🎓 Formación y Certificaciones
+- 🏫 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** | *En curso*
+- 🖥️ **Grado Medio en Sistemas Microinformáticos y Redes (SMR)** | *Titulado*
+
+---
+
+## 💼 Experiencia
+
+### 🚀 Programador Full Stack (FCT)
+**SEGULA Technologies** | *Marzo 2026 – Actualidad*
+- 💻 Desarrollo de soluciones integrales en proyectos de consultoría tecnológica.
+- 🤝 Integración en equipo de desarrollo bajo metodología híbrida.
+
+### 🌐 Desarrollador Web & SEO (FCT)
+**Picasso Business Center** | *Enero 2026 – Febrero 2026*
+- 🎨 Desarrollo web visual y **Optimización para motores de búsqueda (SEO)**.
+- 📈 Mejora del rendimiento y visibilidad de sitios web en entorno remoto.
+
+### 💻 Desarrollador Web (FCT)
+**IMOP Insights** | *Marzo 2023 – Junio 2023*
+- 🖌️ Maquetación con **CSS** y desarrollo de interfaces web.
+- 🛠️ Mantenimiento y optimización de componentes visuales.
+
+---
+
 ## 📊 Lenguajes más usados
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJrzz&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
