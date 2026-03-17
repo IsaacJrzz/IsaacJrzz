@@ -61,9 +61,9 @@
 
 ### 💻 Experiencia en Desarrollo Web (Prácticas)
 **IMOP Insights** | *Marzo 2023 – Junio 2023*
+- 🛠️ **Mantenimiento y reparación de dispositivos** y equipos microinformáticos.
 - 🖌️ Maquetación de sitios web y aplicación de estilos CSS.
 
----
 
 <div align="center">
 
