@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=header&animation=fadeIn" width="100%" />
 
-# ¡Hola, soy Isaac Alonso!
+# ¡Hola, soy Isaac Alonso! 🚀
 
 <a href="https://www.linkedin.com/in/isaacalonsojuarez/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=SMR+Technician;DAM+Student;Full+Stack+Developer+Intern;SEO+%26+Web+Expert" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=T%C3%A9cnico+en+SMR;Estudiante+de+DAM;Aprendiendo+Full+Stack;Desarrollo+Web+y+SEO" alt="Typing SVG" />
 </a>
 
 <p align="center">
