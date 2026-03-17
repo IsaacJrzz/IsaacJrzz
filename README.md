@@ -8,10 +8,13 @@
 ## 💡 Tecnologías y Herramientas
 
 ### 🚀 Lenguajes y Frameworks:  
-![My Skills](https://skillicons.dev/icons?i=js,python,cpp,bash,react,nodejs,express,tailwind)
+![Lenguajes](https://skillicons.dev/icons?i=java,python,js,react,html,css,json)
 
-### 🌐 Sistemas y Redes:  
-![Systems](https://skillicons.dev/icons?i=linux,ubuntu,debian,docker,aws,nginx,pvs)
+### 🗄️ Bases de Datos:  
+![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
-### 🛡️ Ciberseguridad y Herramientas:  
-![Cyber](https://skillicons.dev/icons?i=kali,metasploit,wireshark,burpsuite,powershell,git,github,vscode)
+### 🖥️ Sistemas y Redes (UI & Server):  
+![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)
+
+### 🛠️ Herramientas de Desarrollo:  
+![Herramientas](https://skillicons.dev/icons?i=vscode,idea,git,github)
