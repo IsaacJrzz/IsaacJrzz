@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=header&animation=fadeIn" width="100%" />
 
-# ¡Hola, soy Isaac Alonso! 🚀
+# ¡Hola, soy Isaac Alonso!
 
 <a href="https://www.linkedin.com/in/isaacalonsojuarez/">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sistemas+Microinform%C3%A1ticos+y+Redes;Desarrollo+de+Aplicaciones+Multiplataforma;Aprendiendo+Desarrollo+Full+Stack;Experiencia+en+Desarrollo+Web+y+SEO" alt="Typing SVG" />
