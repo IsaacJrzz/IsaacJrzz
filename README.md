@@ -30,9 +30,8 @@
 ### 🚀 Sobre mí
 - 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**.
 - 🛠️ Técnico en **Sistemas Microinformáticos y Redes**.
-- 💻 Enfocado en el **desarrollo web y aplicaciones**, con experiencia sólida en **mantenimiento y reparación de dispositivos**.
-- 🌱 Actualmente ampliando conocimientos en **React** y practicando la gestión de entornos servidor (Linux/Windows).
-- ⚡ Me apasiona la integración entre el software y el hardware para crear soluciones eficientes y funcionales.
+- 💻 Enfocado en el **desarrollo web y aplicaciones**, con experiencia en **mantenimiento y reparación de dispositivos**.
+- 🌱 Actualmente ampliando conocimientos en **React**.
 
 ---
 
