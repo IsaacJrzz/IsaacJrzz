@@ -2,10 +2,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ff3131&height=150&section=header&animation=fadeIn" width="100%" />
 
-# ¡Hola, soy Isaac Alonso! 🚀
+# ¡Hola, soy Isaac Alonso!
 
 <a href="https://www.linkedin.com/in/isaacalonsojuarez/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=T%C3%A9cnico+en+SMR;Estudiante+de+DAM;Aprendiendo+Full+Stack;Desarrollo+Web+y+SEO" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sistemas+Microinform%C3%A1ticos+y+Redes;Desarrollo+de+Aplicaciones+Multiplataforma;Aprendiendo+Desarrollo+Full+Stack;Formaci%C3%B3n+en+Desarrollo+Web+y+SEO" alt="Typing SVG" />
 </a>
 
 <p align="center">
@@ -18,49 +18,51 @@
 </div>
 
 ### 🚀 Sobre mí
-- 🎓 **Estudiante de DAM** (Desarrollo de Aplicaciones Multiplataforma).
-- 🛠️ **Técnico en SMR** (Sistemas Microinformáticos y Redes).
-- 💻 Especializado en **desarrollo web y multiplataforma**, con una base sólida en **montaje y mantenimiento de equipos**.
-- 🌱 Actualmente profundizando en **React** y perfeccionando el manejo de **entornos servidor (Linux/Windows)**.
-- ⚡ Me apasiona entender cómo el software se comunica con el hardware para crear soluciones eficientes.
+- 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**.
+- 🛠️ Técnico en **Sistemas Microinformáticos y Redes**.
+- 💻 Enfocado en el aprendizaje de **desarrollo web y aplicaciones**, con experiencia práctica en montaje y mantenimiento de equipos informáticos.
+- 🌱 Actualmente ampliando conocimientos en **React** y practicando la gestión de entornos servidor (Linux/Windows).
+- ⚡ Interesado en comprender la integración entre el software y el hardware para el desarrollo de soluciones funcionales.
 
 ---
 
 ## 💡 Tecnologías y Herramientas
 
-### 🚀 Lenguajes y Frameworks
+### 🚀 Lenguajes y Frameworks con los que trabajo
 ![Lenguajes](https://skillicons.dev/icons?i=java,python,js,react,html,css,json)
 
-### 🗄️ Bases de Datos
+### 🗄️ Gestión de Datos
 ![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
-### 🖥️ Sistemas y Redes (UI & Server)
+### 🖥️ Sistemas y Redes
 ![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)
 
-### 🛠️ Herramientas de Desarrollo
+### 🛠️ Entornos de Desarrollo
 ![Herramientas](https://skillicons.dev/icons?i=vscode,idea,git,github)
 
 ---
 
-## 🎓 Formación y Certificaciones
-- 🏫 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)** | *En curso*
-- 🖥️ **Grado Medio en Sistemas Microinformáticos y Redes (SMR)** | *Titulado*
+## 🎓 Formación Académica
+- 🏫 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** | *En curso*
+- 🖥️ **Grado Medio en Sistemas Microinformáticos y Redes** | *Titulado*
 
 ---
 
-## 💼 Experiencia
+## 💼 Experiencia en Prácticas (FCT)
 
-### 🚀 Programador Full Stack (FCT)
+### 🚀 Programador Full Stack en Prácticas
 **SEGULA Technologies** | *Marzo 2026 – Actualidad*
-- 💻 Desarrollo de soluciones integrales en proyectos de consultoría tecnológica.
+- 💻 Participación en el desarrollo de soluciones tecnológicas en proyectos de consultoría.
 
-### 🌐 Desarrollador Web & SEO (FCT)
+### 🌐 Desarrollo Web y SEO en Prácticas
 **Picasso Business Center** | *Enero 2026 – Febrero 2026*
-- 📈 **Optimización SEO** y mejora del rendimiento web.
+- 📈 Tareas de optimización web y apoyo en el posicionamiento en buscadores.
 
-### 💻 Desarrollador Web (FCT)
+### 💻 Desarrollo Web en Prácticas
 **IMOP Insights** | *Marzo 2023 – Junio 2023*
-- 🖌️ Maquetación con **CSS** y diseño responsive.
+- 🖌️ Maquetación de sitios web y aplicación de estilos CSS.
+
+---
 
 <div align="center">
 
