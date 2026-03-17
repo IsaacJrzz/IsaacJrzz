@@ -32,9 +32,11 @@
 
 ---
 
-## 📊 Mis Estadísticas de GitHub
+## 📊 Lenguajes más usados
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IsaacJrzz&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Isaac" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJrzz&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO_AQUI&theme=radical" alt="Resumen de actividad" />
 </p>
