@@ -1,6 +1,6 @@
 <div align="center">
 
-# ¡Hola, soy Isaac! 🚀
+# ¡Hola, soy Isaac!
 *(SMR Technician & DAM Student)*
 
 ---
@@ -34,7 +34,7 @@
 
 ## 📊 Mis Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Isaac" />
+  <img src="https://github-readme-stats.vercel.app/api?username=IsaacJrzz&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de Isaac" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_AQUI&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsaacJrzz&layout=compact&theme=radical&hide_border=true" alt="Lenguajes más usados" />
 </p>
