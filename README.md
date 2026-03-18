@@ -46,7 +46,7 @@
 
 > [!TIP]
 > **Puedes ver mis últimos proyectos y habilidades en vivo en mi portfolio:**
-> ### [**👉 isaacjrzz.github.io**](https://isaacjrzz.github.io/)
+> ### [**isaacjrzz.github.io**](https://isaacjrzz.github.io/)
 
 </div>
 
