@@ -19,9 +19,9 @@
 </a>
 
 <p align="center">
-<a href="https://isaacjrzz.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Visitar%20Portfolio-FF0059?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:isaacalonsojrz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://isaacjrzz.github.io/" target="_blank"><img src="https://img.shields.io/badge/💻_Mi_Portfolio-FF0059?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:isaacalonsojrz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -36,15 +36,17 @@
 
 ---
 
-## 🌐 Mi Portfolio
-
-He desplegado mi portfolio personal utilizando **React**, **Vite** y **Tailwind CSS**, automatizando el despliegue con **GitHub Actions**. Puedes ver mis proyectos y habilidades en vivo aquí:
+## 🌐 Proyectos y Portfolio
 
 <div align="center">
 
-[![Mi Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isaacjrzz&repo=isaacjrzz.github.io&theme=dark&bg_color=1F2937&title_color=FF0059&icon_color=FF0059)](https://isaacjrzz.github.io/)
+[![Visitar mi Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isaacjrzz&repo=isaacjrzz.github.io&theme=dark&bg_color=1F2937&title_color=FF0059&icon_color=FF0059)](https://isaacjrzz.github.io/)
 
-[👉 **Click aquí para visitar isaacjrzz.github.io** 👈](https://isaacjrzz.github.io/)
+<br />
+
+> [!TIP]
+> **Puedes ver mis últimos proyectos y habilidades en vivo en mi portfolio:**
+> ### [**👉 isaacjrzz.github.io**](https://isaacjrzz.github.io/)
 
 </div>
 
@@ -52,16 +54,16 @@ He desplegado mi portfolio personal utilizando **React**, **Vite** y **Tailwind 
 
 ## 💡 Tecnologías y Herramientas
 
-### 🚀 Lenguajes y Frameworks con los que trabajo
+### 🚀 Lenguajes y Frameworks
 ![Lenguajes](https://skillicons.dev/icons?i=java,python,js,react,html,css,json)
 
 ### 🗄️ Gestión de Datos
 ![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
 
-### 🖥️ Sistemas, Redes y Hardware
+### 🖥️ Sistemas y Redes
 ![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)
 
-### 🛠️ Entornos de Desarrollo
+### 🛠️ Herramientas de Desarrollo
 ![Herramientas](https://skillicons.dev/icons?i=vscode,idea,git,github)
 
 ---
@@ -72,21 +74,20 @@ He desplegado mi portfolio personal utilizando **React**, **Vite** y **Tailwind 
 
 ---
 
-## 💼 Experiencia Profesional y Prácticas (FCT)
+## 💼 Experiencia Profesional
 
-### 🚀 Programador Full Stack en Prácticas
+### 🚀 Programador Full Stack (Prácticas)
 **SEGULA Technologies** | *Marzo 2026 – Actualidad*
 - 💻 Participación en el desarrollo de soluciones tecnológicas en proyectos de consultoría.
 
-### 🌐 Experiencia en Desarrollo Web y SEO
-**Picasso Business Center** | *Enero 2026 – Febreo 2026*
+### 🌐 Desarrollo Web y SEO
+**Picasso Business Center** | *Enero 2026 – Febrero 2026*
 - 📈 Optimización de rendimiento web y aplicación de técnicas de posicionamiento SEO.
-- 🎨 Desarrollo y mantenimiento de interfaces visuales.
 
-### 🔧 Experiencia en Sistemas y Soporte (Prácticas)
+### 🔧 Sistemas y Soporte (Prácticas)
 **IMOP Insights** | *Marzo 2023 – Junio 2023*
-- 🛠️ **Mantenimiento y reparación de dispositivos** y equipos microinformáticos.
-- 🖌️ Maquetación de sitios web y aplicación de estilos CSS.
+- 🛠️ Mantenimiento y reparación de equipos microinformáticos.
+- 🖌️ Maquetación de sitios web con estilos CSS.
 
 <div align="center">
 
