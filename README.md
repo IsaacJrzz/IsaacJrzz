@@ -19,6 +19,7 @@
 </a>
 
 <p align="center">
+<a href="https://isaacjrzz.github.io/" target="_blank"><img src="https://img.shields.io/badge/-Visitar%20Portfolio-FF0059?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" /></a>
 <a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:isaacalonsojrz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
@@ -32,6 +33,20 @@
 - 🛠️ Técnico en **Sistemas Microinformáticos y Redes**.
 - 💻 Enfocado en el **desarrollo web y aplicaciones**, con experiencia en **mantenimiento y reparación de dispositivos**.
 - 🌱 Actualmente ampliando conocimientos en **React**.
+
+---
+
+## 🌐 Mi Portfolio
+
+He desplegado mi portfolio personal utilizando **React**, **Vite** y **Tailwind CSS**, automatizando el despliegue con **GitHub Actions**. Puedes ver mis proyectos y habilidades en vivo aquí:
+
+<div align="center">
+
+[![Mi Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isaacjrzz&repo=isaacjrzz.github.io&theme=dark&bg_color=1F2937&title_color=FF0059&icon_color=FF0059)](https://isaacjrzz.github.io/)
+
+[👉 **Click aquí para visitar isaacjrzz.github.io** 👈](https://isaacjrzz.github.io/)
+
+</div>
 
 ---
 
