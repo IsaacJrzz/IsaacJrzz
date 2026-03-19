@@ -91,14 +91,18 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Estadísticas de Actividad
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=transparent&title_color=FF0059&text_color=ffffff&icon_color=FF0059&border_color=FF0059&hide_border=false" alt="Estadísticas de Isaac" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=transparent&title_color=FF0059&text_color=ffffff&icon_color=FF0059&border_color=FF0059&hide_border=false" alt="Lenguajes más usados" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=transparent&title_color=FF0059&text_color=ffffff&icon_color=FF0059&border_color=FF0059&hide_border=false&bg_color=0D1117" alt="Estadísticas de Isaac" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=transparent&title_color=FF0059&text_color=ffffff&icon_color=FF0059&border_color=FF0059&hide_border=false&bg_color=0D1117" alt="Lenguajes más usados" height="180px" />
+  
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=transparent&fire=FF0059&currStreakLabel=FF0059&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059" alt="GitHub Streak" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=transparent&fire=FF0059&currStreakLabel=FF0059&border=FF0059&hide_border=false&background=0D1117&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059" alt="GitHub Streak" width="80%" />
 </div>
+
+<br />
 
 <div align="center">
 
