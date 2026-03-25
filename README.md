@@ -8,7 +8,6 @@
   </defs>
 </svg>
 
-
 <div style="clip-path: url(#rounded-corners);-webkit-clip-path: url(#rounded-corners);">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0059&height=150&section=header&animation=fadeIn" width="100%" alt="Banner superior" />
 </div>
