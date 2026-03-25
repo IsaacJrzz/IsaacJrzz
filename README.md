@@ -1,6 +1,10 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0059&height=150&section=header&text=Isaac%20Alonso&fontSize=50&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
 
+  <a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sistemas+Microinformáticos+y+Redes;Desarrollo+Multiplataforma+(DAM);Experiencia+en+Sistemas+y+Hardware;Desarrollo+Web+%26+SEO+Specialist" alt="Typing SVG" />
+  </a>
+
   <p align="center">
     <a href="https://isaacjrzz.github.io/" target="_blank"><img src="https://img.shields.io/badge/💻_Mi_Portfolio-FF0059?style=for-the-badge&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
