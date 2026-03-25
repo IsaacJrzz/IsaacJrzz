@@ -20,29 +20,17 @@
 
 ## 💡 Tecnologías y Herramientas
 
-### 💻 Desarrollo (Frontend & Backend)
-<img src="https://skillicons.dev/icons?i=java,js,react,nodejs,python,vite,html,css,tailwind" />
+### 💻 Desarrollo Web & App
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 
-### 🖥️ Sistemas y Servidores
-<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,mysql,postgres,mongodb" />
+### 🎨 Maquetación & Datos
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) ![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white) ![XML](https://img.shields.io/badge/XML-0060AC?style=flat&logo=xml&logoColor=white)
 
-### 🗄️ Gestión y Datos
-<img src="https://skillicons.dev/icons?i=git,github,jira,trello,vscode" />
-<br />
-<img src="https://img.shields.io/badge/JSON-5E5E5E?style=for-the-badge&logo=json&logoColor=white" /> <img src="https://img.shields.io/badge/XML-0060ac?style=for-the-badge&logo=xml&logoColor=white" /> <img src="https://img.shields.io/badge/MONTAJE_EQUIPOS-FF0059?style=for-the-badge&logo=build&logoColor=white" />
+### 🖥️ Sistemas & Servidores
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white) ![Windows Server](https://img.shields.io/badge/Win_Server-0078D6?style=flat&logo=microsoft&logoColor=white) ![Ubuntu Server](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat&logo=ubuntu&logoColor=white) ![Hardware](https://img.shields.io/badge/Hardware-FF0059?style=flat&logo=build&logoColor=white)
 
----
-
-## 🌐 Proyectos y Portfolio
-
-<div align="center">
-
-[![Visitar mi Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isaacjrzz&repo=isaacjrzz.github.io&theme=transparent&title_color=FF0059&icon_color=FF0059&text_color=ffffff&bg_color=0D1117&hide_border=false&border_color=FF0059)](https://isaacjrzz.github.io/)
-
-> [!TIP]
-> **Explora mis últimos proyectos y despliegues en vivo en mi web personal.**
-
-</div>
+### 🗄️ Gestión & Bases de Datos
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC?style=flat&logo=trello&logoColor=white)
 
 ---
 
