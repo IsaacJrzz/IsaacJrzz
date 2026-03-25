@@ -14,14 +14,7 @@
 Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en **Sistemas Microinformáticos y Redes (SMR)**. Poseo un perfil híbrido centrado en la creación de software moderno y la gestión de infraestructura técnica. Actualmente enfocado en el ecosistema de **React** y soluciones escalables.
 
 > [!TIP]
-> **Puedes ver mis proyectos y despliegues en vivo en mi web personal:**
-> ### [**isaacjrzz.github.io**](https://isaacjrzz.github.io/)
-
-<div align="center">
-
-[![Repo Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isaacjrzz&repo=isaacjrzz.github.io&theme=transparent&title_color=FF0059&icon_color=FF0059&text_color=ffffff&bg_color=0D1117&hide_border=false&border_color=FF0059)](https://isaacjrzz.github.io/)
-
-</div>
+> **Explora mis proyectos y despliegues en vivo en:** [**isaacjrzz.github.io**](https://isaacjrzz.github.io/)
 
 ---
 
