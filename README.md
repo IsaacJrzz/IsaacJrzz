@@ -1,113 +1,87 @@
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0059&height=150&section=header&text=Isaac%20Alonso&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
 
-<svg width="0" height="0">
-  <defs>
-    <clipPath id="rounded-corners" clipPathUnits="objectBoundingBox">
-      <rect rx="0.05" ry="0.05" width="1" height="1" />
-    </clipPath>
-  </defs>
-</svg>
+  # 🚀 Full Stack Developer & Systems Technician
+  
+  <a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF0059&center=true&vCenter=true&width=600&lines=Sistemas+Microinformáticos+y+Redes;Desarrollo+Multiplataforma+(DAM);Experiencia+en+Sistemas+y+Hardware;Desarrollo+Web+%26+SEO+Specialist" alt="Typing SVG" />
+  </a>
 
-<div style="clip-path: url(#rounded-corners);-webkit-clip-path: url(#rounded-corners);">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0059&height=150&section=header&animation=fadeIn" width="100%" alt="Banner superior" />
+  <p align="center">
+    <a href="https://isaacjrzz.github.io/" target="_blank"><img src="https://img.shields.io/badge/PORTFOLIO-FF0059?style=for-the-badge&logo=react&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:isaacalonsojrz@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  </p>
 </div>
-
-# ¡Hola, soy Isaac Alonso! 
-
-<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Sistemas+Microinform%C3%A1ticos+y+Redes;Desarrollo+de+Aplicaciones+Multiplataforma;Experiencia+en+Sistemas+y+Hardware;Experiencia+en+Desarrollo+Web+y+SEO" alt="Typing SVG" />
-</a>
-
-<p align="center">
-<a href="https://isaacjrzz.github.io/" target="_blank"><img src="https://img.shields.io/badge/💻_Mi_Portfolio-FF0059?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
-<a href="https://www.linkedin.com/in/isaacalonsojuarez/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:isaacalonsojrz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
 
 ---
 
-</div>
+### 👤 Sobre mí
 
-### 🚀 Sobre mí
-- 🎓 Estudiante de **Desarrollo de Aplicaciones Multiplataforma**.
-- 🛠️ Técnico en **Sistemas Microinformáticos y Redes**.
-- 💻 Enfocado en el **desarrollo web y aplicaciones**, con experiencia en **mantenimiento y reparación de dispositivos**.
-- 🌱 Actualmente ampliando conocimientos en **React**.
+Soy un apasionado de la tecnología con un perfil híbrido: **especialista en infraestructura (SMR)** y **desarrollador de software (DAM)**. Mi enfoque actual es construir aplicaciones escalables y eficientes, combinando mi sólido conocimiento en hardware y redes con el desarrollo de aplicaciones multiplataforma.
+
+- 🎓 **Estudiante de DAM** enfocado en arquitecturas modernas.
+- 🛠️ **Técnico SMR** con experiencia real en mantenimiento y soporte.
+- 🔭 **Actualmente:** Desarrollando soluciones Full Stack en **SEGULA Technologies**.
+- 🌱 **Aprendiendo:** Perfeccionando **React** y arquitecturas en la nube.
 
 ---
 
-## 🌐 Proyectos y Portfolio
+### 🛠️ Tech Stack & Tools
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Frontend & Backend** | ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Bases de Datos** | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) |
+| **Sistemas & OS** | ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) |
+| **Herramientas** | ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+### 💼 Experiencia Relevante
+
+#### 🚀 **Programador Full Stack** | SEGULA Technologies
+*Marzo 2026 – Actualidad*
+> Desarrollo de soluciones tecnológicas personalizadas y consultoría técnica.
+
+#### 🌐 **Desarrollo Web & SEO** | Picasso Business Center
+*Enero 2026 – Febrero 2026*
+> Optimización de Core Web Vitals y estrategias de posicionamiento orgánico.
+
+#### 🔧 **Sistemas y Soporte** | IMOP Insights
+*Marzo 2023 – Junio 2023*
+> Mantenimiento de infraestructura crítica y maquetación web con CSS avanzado.
+
+---
+
+### 📊 GitHub Analytics
 
 <div align="center">
-
-[![Visitar mi Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=isaacjrzz&repo=isaacjrzz.github.io&theme=dark&bg_color=1F2937&title_color=FF0059&icon_color=FF0059)](https://isaacjrzz.github.io/)
-
-<br />
-
-> [!TIP]
-> **Puedes ver mis últimos proyectos y habilidades en vivo en mi portfolio:**
-> ### [**isaacjrzz.github.io**](https://isaacjrzz.github.io/)
-
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=tokyonight&title_color=FF0059&icon_color=FF0059&hide_border=true&bg_color=0D1117" height="170px" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=tokyonight&title_color=FF0059&icon_color=FF0059&hide_border=true&bg_color=0D1117" height="170px" />
+      </td>
+    </tr>
+  </table>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=tokyonight&fire=FF0059&ring=FF0059&background=0D1117&hide_border=true" width="100%" />
 </div>
 
 ---
 
-## 💡 Tecnologías y Herramientas
-
-### 🚀 Lenguajes y Frameworks
-![Lenguajes](https://skillicons.dev/icons?i=java,python,js,react,html,css,json)
-
-### 🗄️ Gestión de Datos
-![Bases de Datos](https://skillicons.dev/icons?i=mysql,postgres,mongodb)
-
-### 🖥️ Sistemas y Redes
-![Sistemas](https://skillicons.dev/icons?i=windows,linux,ubuntu,debian)
-
-### 🛠️ Herramientas de Desarrollo
-![Herramientas](https://skillicons.dev/icons?i=vscode,idea,git,github)
-
----
-
-## 🎓 Formación Académica
-- 🏫 **Grado Superior en Desarrollo de Aplicaciones Multiplataforma** | *En curso*
-- 🖥️ **Grado Medio en Sistemas Microinformáticos y Redes** | *Titulado*
-
----
-
-## 💼 Experiencia Profesional
-
-### 🚀 Programador Full Stack (Prácticas)
-**SEGULA Technologies** | *Marzo 2026 – Actualidad*
-- 💻 Participación en el desarrollo de soluciones tecnológicas en proyectos de consultoría.
-
-### 🌐 Desarrollo Web y SEO
-**Picasso Business Center** | *Enero 2026 – Febrero 2026*
-- 📈 Optimización de rendimiento web y aplicación de técnicas de posicionamiento SEO.
-
-### 🔧 Sistemas y Soporte (Prácticas)
-**IMOP Insights** | *Marzo 2023 – Junio 2023*
-- 🛠️ Mantenimiento y reparación de equipos microinformáticos.
-- 🖌️ Maquetación de sitios web con estilos CSS.
-
----
-
-## 📊 Estadísticas de Actividad
-
+### 📂 Proyectos Destacados
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=transparent&title_color=FF0059&text_color=ffffff&icon_color=FF0059&border_color=FF0059&hide_border=false&bg_color=0D1117" alt="Estadísticas de Isaac" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=transparent&title_color=FF0059&text_color=ffffff&icon_color=FF0059&border_color=FF0059&hide_border=false&bg_color=0D1117" alt="Lenguajes más usados" height="180px" />
-  
-  <br />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=transparent&fire=FF0059&currStreakLabel=FF0059&border=FF0059&hide_border=false&background=0D1117&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059" alt="GitHub Streak" width="80%" />
+  <a href="https://isaacjrzz.github.io/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=isaacjrzz&repo=isaacjrzz.github.io&theme=tokyonight&title_color=FF0059&border_radius=10" alt="Portfolio Repo" />
+  </a>
 </div>
 
 <br />
 
 <div align="center">
-
-<div style="clip-path: url(#rounded-corners);-webkit-clip-path: url(#rounded-corners);">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0059&height=150&section=footer" width="100%" alt="Banner inferior" />
-</div>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0059&height=100&section=footer" width="100%" />
 </div>
