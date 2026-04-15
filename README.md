@@ -36,21 +36,21 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en
 
 ## 💼 Experiencia Laboral
 
-**Programador Full Stack** | *SEGULA Technologies* > Marzo 2026 – Actualidad  
-> Desarrollo de software y consultoría técnica en proyectos de transformación digital.
+**Programador Full Stack en Prácticas** | *SEGULA Technologies* *Marzo 2026 – Actualidad* > Desarrollo full stack en jornada completa, participando en proyectos de consultoría técnica y soluciones híbridas.
 
-**Desarrollo Web y SEO** | *Picasso Business Center* > Enero 2026 – Febrero 2026  
-> Optimización de Core Web Vitals y estrategias de posicionamiento SEO.
+**Desarrollador de Sitios Web** | *Picasso Business Center* *Enero 2026 – Febrero 2026* > Desarrollo web visual y optimización para motores de búsqueda (SEO) en modalidad remota.
+
+**Desarrollador Web** | *IMOP Insights* *Marzo 2023 – Junio 2023* > Desarrollo frontend enfocado en maquetación avanzada con CSS y creación de interfaces interactivas.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=transparent&title_color=FF0059&text_color=ffffff&icon_color=FF0059&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=transparent&title_color=FF0059&text_color=ffffff&icon_color=FF0059&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=radical&title_color=FF0059&text_color=ffffff&icon_color=FF0059&bg_color=0d1117&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=radical&title_color=FF0059&text_color=ffffff&icon_color=FF0059&bg_color=0d1117&hide_border=true" height="170px" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=transparent&fire=FF0059&currStreakLabel=FF0059&hide_border=true&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=dark&fire=FF0059&currStreakLabel=FF0059&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059&background=0d1117&hide_border=true" width="85%" />
 </div>
 
 <br />
