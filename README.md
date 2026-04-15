@@ -50,11 +50,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en
 ## Métricas de Desarrollo
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=dark&title_color=FF0059&text_color=ffffff&icon_color=FF0059&bg_color=0D1117&hide_border=true" height="165px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=dark&title_color=FF0059&text_color=ffffff&icon_color=FF0059&bg_color=0D1117&hide_border=true" height="165px" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=dark&fire=FF0059&currStreakLabel=FF0059&hide_border=true&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059&background=0D1117" width="82%" />
 </div>
 
