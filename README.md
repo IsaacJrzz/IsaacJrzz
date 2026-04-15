@@ -50,16 +50,6 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en
 ### Análisis de Actividad
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=dark&hide_border=true&title_color=FF0059&icon_color=FF0059&text_color=ffffff&bg_color=0D1117" alt="Estadísticas Generales" width="100%" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=dark&hide_border=true&title_color=FF0059&text_color=ffffff&bg_color=0D1117" alt="Lenguajes más usados" width="100%" />
-      </td>
-    </tr>
-  </table>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=dark&fire=FF0059&currStreakLabel=FF0059&hide_border=true&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059&background=0D1117" width="98%" />
 </div>
 
