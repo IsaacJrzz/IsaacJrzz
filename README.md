@@ -55,6 +55,10 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en
 
 ### Análisis de Actividad
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=dark&fire=FF0059&currStreakLabel=FF0059&hide_border=true&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059&background=0D1117" width="98%" />
+</div>
+
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=FF0059&height=100&section=footer" width="100%" />
