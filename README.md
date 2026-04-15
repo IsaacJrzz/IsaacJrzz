@@ -10,12 +10,12 @@
 
 ---
 
-### Perfil Profesional
-Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en **Sistemas Microinformáticos y Redes (SMR)**. Especializado en la creación de software moderno y gestión de infraestructura técnica, con un enfoque actual en el ecosistema **React** y soluciones escalables de alto rendimiento.
+### Resumen Profesional
+Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en **Sistemas Microinformáticos y Redes (SMR)**. Especializado en el desarrollo de software moderno y gestión de infraestructura técnica, con un enfoque actual en el ecosistema **React** y soluciones escalables de alto rendimiento.
 
 ---
 
-## Stack Tecnológico
+### Stack Tecnológico
 
 **Software Development**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -28,29 +28,39 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en
 
 ---
 
-## Trayectoria Laboral
+### Trayectoria Laboral
 
-#### SEGULA Technologies
-**Full Stack Developer (Internship)** | *Marzo 2026 — Actualidad*
+**SEGULA Technologies**
+*Full Stack Developer (Internship) | Marzo 2026 — Actualidad*
 * Consultoría técnica y desarrollo de aplicaciones web integrales.
 * Implementación de arquitecturas modernas en proyectos de transformación digital.
 
-#### Picasso Business Center
-**Web Developer & SEO Specialist** | *Enero 2026 — Febrero 2026*
+**Picasso Business Center**
+*Web Developer & SEO Specialist | Enero 2026 — Febrero 2026*
 * Optimización de rendimiento web enfocado en métricas Core Web Vitals.
 * Estrategias de posicionamiento técnico y desarrollo visual remoto.
 
-#### IMOP Insights
-**Web Developer** | *Marzo 2023 — Junio 2023*
+**IMOP Insights**
+*Web Developer | Marzo 2023 — Junio 2023*
 * Maquetación avanzada y diseño de interfaces de usuario funcionales.
 * Implementación de sistemas de estilos dinámicos para visualización de datos.
 
 ---
 
-## Métricas de Desarrollo
+### Análisis de Actividad
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=dark&fire=FF0059&currStreakLabel=FF0059&hide_border=true&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059&background=0D1117" width="82%" />
+  <table border="0">
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=dark&hide_border=true&title_color=FF0059&icon_color=FF0059&text_color=ffffff&bg_color=0D1117" alt="Estadísticas Generales" width="100%" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=dark&hide_border=true&title_color=FF0059&text_color=ffffff&bg_color=0D1117" alt="Lenguajes más usados" width="100%" />
+      </td>
+    </tr>
+  </table>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=dark&fire=FF0059&currStreakLabel=FF0059&hide_border=true&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059&background=0D1117" width="98%" />
 </div>
 
 <br />
