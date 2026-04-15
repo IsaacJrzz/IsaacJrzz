@@ -36,21 +36,24 @@ Estudiante de **Desarrollo de Aplicaciones Multiplataforma (DAM)** y Técnico en
 
 ## 💼 Experiencia Laboral
 
-**Programador Full Stack en Prácticas** | *SEGULA Technologies* *Marzo 2026 – Actualidad* > Desarrollo full stack en jornada completa, participando en proyectos de consultoría técnica y soluciones híbridas.
+| Empresa | Puesto | Periodo |
+| :--- | :--- | :--- |
+| **SEGULA Technologies** | Programador Full Stack (Prácticas) | Mar. 2026 — Actualidad |
+| **Picasso Business Center** | Desarrollador Web y SEO | Ene. 2026 — Feb. 2026 |
+| **IMOP Insights** | Desarrollador Web | Mar. 2023 — Jun. 2023 |
 
-**Desarrollador de Sitios Web** | *Picasso Business Center* *Enero 2026 – Febrero 2026* > Desarrollo web visual y optimización para motores de búsqueda (SEO) en modalidad remota.
-
-**Desarrollador Web** | *IMOP Insights* *Marzo 2023 – Junio 2023* > Desarrollo frontend enfocado en maquetación avanzada con CSS y creación de interfaces interactivas.
+> [!NOTE]
+> Durante mi trayectoria he trabajado en entornos híbridos y remotos, especializándome en **optimización SEO**, **maquetación CSS** y desarrollo de aplicaciones escalables.
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=radical&title_color=FF0059&text_color=ffffff&icon_color=FF0059&bg_color=0d1117&hide_border=true" height="170px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=radical&title_color=FF0059&text_color=ffffff&icon_color=FF0059&bg_color=0d1117&hide_border=true" height="170px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=isaacjrzz&show_icons=true&theme=dark&title_color=FF0059&text_color=ffffff&icon_color=FF0059&hide_border=true&bg_color=0D1117" height="170px" alt="Isaac's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaacjrzz&layout=compact&theme=dark&title_color=FF0059&text_color=ffffff&icon_color=FF0059&hide_border=true&bg_color=0D1117" height="170px" alt="Isaac's Top Languages" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=dark&fire=FF0059&currStreakLabel=FF0059&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059&background=0d1117&hide_border=true" width="85%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=isaacjrzz&theme=dark&fire=FF0059&currStreakLabel=FF0059&hide_border=true&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&ring=FF0059&stroke=FF0059&background=0D1117" width="85%" alt="Isaac's Streak" />
 </div>
 
 <br />
